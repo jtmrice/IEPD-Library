@@ -49,7 +49,7 @@ NOTE: Information exchange relies on many capabilities—NIEM provides a solid s
       </span>
     </div>
     <div class="media-body">
-      <h4 class="media-heading" style="margin-top:15px"><a href="#">Search for IEPDs</a></h4>
+      <h4 class="media-heading" style="margin-top:15px"><a href="https://github.com/search?q=NIEM+IEPD&utf8=%E2%9C%93">Search for IEPDs</a></h4>
     </div>
   </div>
 </div>
