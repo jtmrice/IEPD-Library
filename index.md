@@ -16,9 +16,9 @@ From the business perspective, an IEPD provides documentation such as business s
 
 In an era when return on investment has never been more important to government services, NIEM enables organizations to exchange information across all levels of government in a manner that is both effective and efficient.
 
-Be sure to check out the **[NIEM Cost Model] (https://niem.gov/aboutniem/roadmap/Pages/cost-model.aspx)**, which allows users to quantify the associated costs of adopting NIEM.
+Be sure to check out the **[NIEM Cost Model](https://niem.gov/aboutniem/roadmap/Pages/cost-model.aspx)**, which allows users to quantify the associated costs of adopting NIEM.
 
-NOTE: Information exchange relies on many capabilities—NIEM provides a solid starting point. You rarely ever use NIEM by itself. Depending on business requirements, there are other aspects of information exchange implementations that are required, including access controls, policy automation, transmission protocol, and others. This is why the **[NIEM Implementation Cookbook] (https://github.com/NIEM/Implementation-Cookbook)** was created!
+NOTE: Information exchange relies on many capabilities—NIEM provides a solid starting point. You rarely ever use NIEM by itself. Depending on business requirements, there are other aspects of information exchange implementations that are required, including access controls, policy automation, transmission protocol, and others. This is why the **[NIEM Implementation Cookbook](https://github.com/NIEM/Implementation-Cookbook)** was created!
 
 
 [the clickable text](http://github.com/)
