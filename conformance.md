@@ -4,8 +4,8 @@ layout: "default"
 ---
 <div class="col-md-9 col-md-push-3">
   <ol class="breadcrumb">
-    <li><a href="/">Home</a></li>
-    <li class="active">NIEM IEPD Library</li>
+    <li><a href="/">NIEM IEPD Library</a></li>
+    <li class="active">NIEM IEPD Conformance</li>
   </ol>
 
 # NIEM IEPD Conformance
