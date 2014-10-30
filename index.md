@@ -4,7 +4,6 @@ layout: "default"
 ---
 <div class="col-md-9 col-md-push-3" markdown='1'>
   <ol class="breadcrumb">
-    <li><a href="/">Home</a></li>
     <li class="active">NIEM IEPD Library</li>
   </ol>
 
