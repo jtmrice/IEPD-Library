@@ -2,6 +2,12 @@
 title: NIEM IEPD Library
 layout: "default"
 ---
+<div class="col-md-9 col-md-push-3">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li class="active">NIEM IEPD Library</li>
+  </ol>
+
 # NIEM IEPD Library
 
 To use NIEM, you normally build an Information Exchange Package Documentation (IEPD). An IEPD defines a recurring message in XML and is built to satisfy information exchange business requirements. A developer builds an IEPD by incorporating the necessary NIEM core and domain model content. The developer may also extend that content as needed to account for information requirements that are not yet addressed in NIEM. The IEPD will ultimately define XML instance documents that will contain the information to be exchanged. Extended and new content developed in IEPD extension schema documents should be considered for future model updates. In turn, domain and core model updates will be harmonized and integrated into future NIEM releases. In this way, NIEM evolves with new and changing needs.
@@ -53,3 +59,21 @@ NOTE: Information exchange relies on many capabilities—NIEM provides a solid s
     </div>
   </div>
 </div>
+
+</div>
+
+<!-- sidebar -->
+<div class="col-md-3 col-md-pull-9">
+  <div class="section-nav list-group">
+    <a class="list-group-item active" href="#">IEPD Library</a>
+    <a class="list-group-item" href="https://github.com/jtmrice/Template-IEPD">NIEM Template IEPD</a>
+    <a class="list-group-item" href="conformance.html">Conformance Validation</a>
+    <a class="list-group-item" href="search.html">Search IEPDs</a>
+  </div>
+
+  <a class="btn btn-primary feedback-btn" href="https://github.com/NIEM/NIEM.github.io/issues">
+    <span class="icon fa fa-comments fa-sm"></span>
+    <span class="content">Submit Feedback/Ideas</span>
+  </a>
+</div>
+
