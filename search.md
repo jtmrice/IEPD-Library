@@ -4,7 +4,7 @@ layout: "default"
 ---
 <div class="col-md-9 col-md-push-3" markdown='1'>
   <ol class="breadcrumb">
-    <li><a href="/">NIEM IEPD Library</a></li>
+    <li><a href="index.html">NIEM IEPD Library</a></li>
     <li class="active">NIEM IEPD Search</li>
   </ol>
 
@@ -20,7 +20,7 @@ Search functionality will allow users to find IEPDs in GitHub. This functionalit
 <!-- sidebar -->
 <div class="col-md-3 col-md-pull-9">
   <div class="section-nav list-group">
-    <a class="list-group-item" href="/">IEPD Library</a>
+    <a class="list-group-item" href="index.html">IEPD Library</a>
     <a class="list-group-item" href="https://github.com/jtmrice/Template-IEPD">NIEM Template IEPD</a>
     <a class="list-group-item" href="conformance.html">Conformance Validation</a>
     <a class="list-group-item active" href="search.html">Search IEPDs</a>
